@@ -1,0 +1,1501 @@
+ { "name": "colombia", "children": [
+ { "name": "huila", "children": [ 
+  { "name": "neiva", "size": "1480" }
+  ,{ "name": "gigante", "size": "1858" }
+  ,{ "name": "la argentina", "size": "1014" }
+  ,{ "name": "palermo", "size": "254" }
+  ,{ "name": "tesalia", "size": "1004" }
+  ,{ "name": "tello", "size": "235" }
+  ,{ "name": "altamira", "size": "217" }
+  ,{ "name": "oporapa", "size": "88" }
+  ,{ "name": "garzon", "size": "2897" }
+  ,{ "name": "paicol", "size": "104" }
+  ,{ "name": "acevedo", "size": "4453" }
+  ,{ "name": "timana", "size": "152" }
+  ,{ "name": "rivera", "size": "121" }
+  ,{ "name": "la plata", "size": "3750" }
+  ,{ "name": "isnos", "size": "341" }
+  ,{ "name": "el agrado", "size": "1653" }
+  ,{ "name": "elias", "size": "3" }
+  ,{ "name": "san agustin", "size": "3684" }
+  ,{ "name": "villa vieja", "size": "3260" }
+  ,{ "name": "algeciras", "size": "209" }
+  ,{ "name": "betania", "size": "16" }
+  ,{ "name": "colombia", "size": "492" }
+  ,{ "name": "yaguara", "size": "1771" }
+  ,{ "name": "el pital", "size": "1" }
+  ,{ "name": "hobo", "size": "21" }
+  ,{ "name": "santa maria", "size": "103" }
+  ,{ "name": "indeterminado", "size": "64918" }
+  ,{ "name": "teruel", "size": "14" }
+  ,{ "name": "suaza", "size": "166" }
+  ,{ "name": "aipe", "size": "1916" }
+  ,{ "name": "nevado del huila", "size": "1" }
+  ,{ "name": "baraya", "size": "363" }
+  ,{ "name": "campo alegre", "size": "169" }
+  ,{ "name": "pitalito", "size": "3178" }
+  ,{ "name": "saladoblanco", "size": "210" }
+  ,{ "name": "guadalupe", "size": "220" }
+  ,{ "name": "cunday", "size": "1" }
+  ,{ "name": "palestina", "size": "1775" }
+  ,{ "name": "iquira", "size": "126" }
+  ,{ "name": "nataga", "size": "12" }
+  ,{ "name": "vale do rio cedro", "size": "1" }
+  ,{ "name": "tarqui", "size": "31" }
+ ]},
+ { "name": "atlantico", "children": [ 
+  { "name": "piojo", "size": "1296" }
+  ,{ "name": "replon", "size": "1" }
+  ,{ "name": "barranquilla", "size": "1435" }
+  ,{ "name": "luruaco", "size": "208" }
+  ,{ "name": "soledad", "size": "152" }
+  ,{ "name": "indeterminado", "size": "23249" }
+  ,{ "name": "juan de acosta", "size": "224" }
+  ,{ "name": "campo de la cruz", "size": "2" }
+  ,{ "name": "ponedera", "size": "25" }
+  ,{ "name": "sabanagrande", "size": "476" }
+  ,{ "name": "galapa", "size": "39" }
+  ,{ "name": "baranoa", "size": "66" }
+  ,{ "name": "sabanalarga", "size": "138" }
+  ,{ "name": "palmar de varela", "size": "48" }
+  ,{ "name": "manati", "size": "40" }
+  ,{ "name": "usiacuri", "size": "1526" }
+  ,{ "name": "polonuevo", "size": "6" }
+  ,{ "name": "repelon", "size": "307" }
+  ,{ "name": "santo tomas", "size": "121" }
+  ,{ "name": "candelaria", "size": "5" }
+  ,{ "name": "puerto colombia", "size": "691" }
+  ,{ "name": "malambo", "size": "90" }
+  ,{ "name": "tubara", "size": "158" }
+  ,{ "name": "santa lucia", "size": "56" }
+ ]},
+ { "name": "antioquia", "children": [ 
+  { "name": "guatape", "size": "4171" }
+  ,{ "name": "san pedro de los milagros", "size": "870" }
+  ,{ "name": "aburra norte", "size": "37" }
+  ,{ "name": "el carmen de viboral", "size": "10462" }
+  ,{ "name": "don matias", "size": "4002" }
+  ,{ "name": "jard??n", "size": "2" }
+  ,{ "name": "titiribi", "size": "928" }
+  ,{ "name": "sabanalarga", "size": "782" }
+  ,{ "name": "el penol", "size": "639" }
+  ,{ "name": "san rafael", "size": "10288" }
+  ,{ "name": "anori", "size": "13015" }
+  ,{ "name": "el jardin", "size": "7625" }
+  ,{ "name": "maceo", "size": "1830" }
+  ,{ "name": "betulia", "size": "598" }
+  ,{ "name": "angelopolis", "size": "3454" }
+  ,{ "name": "envigado", "size": "3938" }
+  ,{ "name": "alejandra", "size": "6" }
+  ,{ "name": "betania", "size": "1005" }
+  ,{ "name": "murindo", "size": "176" }
+  ,{ "name": "la union", "size": "1284" }
+  ,{ "name": "valparaiso", "size": "900" }
+  ,{ "name": "medellin", "size": "42670" }
+  ,{ "name": "sopetran", "size": "1206" }
+  ,{ "name": "puerto berro", "size": "5" }
+  ,{ "name": "uramita", "size": "72" }
+  ,{ "name": "briceo", "size": "3" }
+  ,{ "name": "caracoli", "size": "546" }
+  ,{ "name": "puerto boyaca", "size": "4" }
+  ,{ "name": "armenia", "size": "55" }
+  ,{ "name": "san jose de la montana", "size": "397" }
+  ,{ "name": "narino", "size": "1197" }
+  ,{ "name": "abriaqui", "size": "2754" }
+  ,{ "name": "la pintada", "size": "1566" }
+  ,{ "name": "citara", "size": "63" }
+  ,{ "name": "necocli", "size": "3784" }
+  ,{ "name": "canasgordas", "size": "267" }
+  ,{ "name": "carmen de chucuri", "size": "8" }
+  ,{ "name": "san roque", "size": "1417" }
+  ,{ "name": "jerico", "size": "2971" }
+  ,{ "name": "anza", "size": "96" }
+  ,{ "name": "marinilla", "size": "343" }
+  ,{ "name": "caicedo", "size": "2949" }
+  ,{ "name": "zaragoza", "size": "2808" }
+  ,{ "name": "san andres de cuerquia", "size": "385" }
+  ,{ "name": "alejandria", "size": "2324" }
+  ,{ "name": "sonson", "size": "13445" }
+  ,{ "name": "liborina", "size": "582" }
+  ,{ "name": "andes", "size": "2402" }
+  ,{ "name": "puerto triunfo", "size": "4623" }
+  ,{ "name": "caceres", "size": "1729" }
+  ,{ "name": "tarso", "size": "679" }
+  ,{ "name": "samana", "size": "98" }
+  ,{ "name": "santaf de antioqua", "size": "1" }
+  ,{ "name": "apartado", "size": "1233" }
+  ,{ "name": "bello", "size": "3956" }
+  ,{ "name": "itagui", "size": "731" }
+  ,{ "name": "santo domingo", "size": "543" }
+  ,{ "name": "caramanta", "size": "648" }
+  ,{ "name": "roldanillo", "size": "1" }
+  ,{ "name": "hispania", "size": "198" }
+  ,{ "name": "chigorodo", "size": "896" }
+  ,{ "name": "olaya", "size": "97" }
+  ,{ "name": "indeterminado", "size": "404486" }
+  ,{ "name": "vigia del fuerte", "size": "1230" }
+  ,{ "name": "arboletes", "size": "475" }
+  ,{ "name": "san franciso", "size": "25" }
+  ,{ "name": "copacabana", "size": "1291" }
+  ,{ "name": "vegachi", "size": "143" }
+  ,{ "name": "remedios", "size": "1914" }
+  ,{ "name": "puerto nare", "size": "3433" }
+  ,{ "name": "fredonia", "size": "15837" }
+  ,{ "name": "concordia", "size": "221" }
+  ,{ "name": "tmesis", "size": "4" }
+  ,{ "name": "caldas", "size": "8427" }
+  ,{ "name": "belmira", "size": "4009" }
+  ,{ "name": "campamento", "size": "528" }
+  ,{ "name": "san pedro d", "size": "1" }
+  ,{ "name": "la ceja", "size": "6575" }
+  ,{ "name": "yondo", "size": "2161" }
+  ,{ "name": "ituango", "size": "1960" }
+  ,{ "name": "ebejico", "size": "991" }
+  ,{ "name": "giraldo", "size": "129" }
+  ,{ "name": "briseno", "size": "1" }
+  ,{ "name": "santa barbara", "size": "429" }
+  ,{ "name": "turbo", "size": "6180" }
+  ,{ "name": "mun. san pedro", "size": "1" }
+  ,{ "name": "santa fe de antioquia", "size": "3642" }
+  ,{ "name": "san miguel", "size": "1" }
+  ,{ "name": "briceno", "size": "785" }
+  ,{ "name": "cartama", "size": "48" }
+  ,{ "name": "yolombo", "size": "3024" }
+  ,{ "name": "zarzal", "size": "1" }
+  ,{ "name": "carolina", "size": "658" }
+  ,{ "name": "rio claro", "size": "3" }
+  ,{ "name": "san vicente", "size": "453" }
+  ,{ "name": "peol", "size": "1" }
+  ,{ "name": "el bagre", "size": "1448" }
+  ,{ "name": "el retiro", "size": "13443" }
+  ,{ "name": "caucasia", "size": "3702" }
+  ,{ "name": "buritica", "size": "559" }
+  ,{ "name": "nechi", "size": "1999" }
+  ,{ "name": "segovia", "size": "1163" }
+  ,{ "name": "heliconia", "size": "937" }
+  ,{ "name": "aburra sur", "size": "37" }
+  ,{ "name": "san juan de uraba", "size": "142" }
+  ,{ "name": "san luis", "size": "18682" }
+  ,{ "name": "yali", "size": "207" }
+  ,{ "name": "abejorral", "size": "1520" }
+  ,{ "name": "carepa", "size": "709" }
+  ,{ "name": "nario", "size": "6" }
+  ,{ "name": "aranjuez", "size": "1" }
+  ,{ "name": "vagachi", "size": "2" }
+  ,{ "name": "urrao", "size": "17313" }
+  ,{ "name": "amaga", "size": "3354" }
+  ,{ "name": "pueblorrico", "size": "146" }
+  ,{ "name": "panzenu", "size": "65" }
+  ,{ "name": "argelia", "size": "172" }
+  ,{ "name": "san carlos", "size": "13415" }
+  ,{ "name": "frontino", "size": "15576" }
+  ,{ "name": "cocorna", "size": "7220" }
+  ,{ "name": "sabaneta", "size": "4131" }
+  ,{ "name": "santa rosa de osos", "size": "2565" }
+  ,{ "name": "la estrella", "size": "2852" }
+  ,{ "name": "san francisco", "size": "3135" }
+  ,{ "name": "concepcion", "size": "1088" }
+  ,{ "name": "girardota", "size": "1220" }
+  ,{ "name": "dabeiba", "size": "1009" }
+  ,{ "name": "puerto berrio", "size": "2926" }
+  ,{ "name": "hevexicos", "size": "47" }
+  ,{ "name": "venecia", "size": "3382" }
+  ,{ "name": "entrerros", "size": "2" }
+  ,{ "name": "mutata", "size": "7027" }
+  ,{ "name": "angostura", "size": "361" }
+  ,{ "name": "amalfi", "size": "8867" }
+  ,{ "name": "gomez plata", "size": "1006" }
+  ,{ "name": "entrerrios", "size": "1369" }
+  ,{ "name": "cordillera central", "size": "1" }
+  ,{ "name": "la dorada", "size": "1" }
+  ,{ "name": "valdivia", "size": "2533" }
+  ,{ "name": "san jeronimo", "size": "2922" }
+  ,{ "name": "rionegro", "size": "11325" }
+  ,{ "name": "cisneros", "size": "73" }
+  ,{ "name": "tamesis", "size": "5108" }
+  ,{ "name": "san pedro de uraba", "size": "482" }
+  ,{ "name": "granada", "size": "1430" }
+  ,{ "name": "el santuario", "size": "337" }
+  ,{ "name": "barbosa", "size": "10708" }
+  ,{ "name": "guadalupe", "size": "280" }
+  ,{ "name": "caasgordas", "size": "1" }
+  ,{ "name": "peque", "size": "802" }
+  ,{ "name": "guarne", "size": "6699" }
+  ,{ "name": "yarumal", "size": "5742" }
+  ,{ "name": "ciudad bolivar", "size": "1133" }
+  ,{ "name": "pereira", "size": "1" }
+  ,{ "name": "salgar", "size": "3123" }
+  ,{ "name": "taraza", "size": "1837" }
+  ,{ "name": "toledo", "size": "180" }
+ ]},
+ { "name": "santander", "children": [ 
+  { "name": "capitanejo", "size": "82" }
+  ,{ "name": "jesus maria", "size": "21" }
+  ,{ "name": "hato", "size": "116" }
+  ,{ "name": "albania", "size": "13" }
+  ,{ "name": "landezuri", "size": "1" }
+  ,{ "name": "carcasi", "size": "1729" }
+  ,{ "name": "san benito", "size": "1" }
+  ,{ "name": "barichara", "size": "907" }
+  ,{ "name": "la belleza", "size": "47" }
+  ,{ "name": "onzaga", "size": "3018" }
+  ,{ "name": "floridablanca", "size": "4061" }
+  ,{ "name": "gambita", "size": "1463" }
+  ,{ "name": "el penon", "size": "7718" }
+  ,{ "name": "valle de san jose", "size": "32" }
+  ,{ "name": "betulia", "size": "646" }
+  ,{ "name": "los santos", "size": "1980" }
+  ,{ "name": "socorro", "size": "341" }
+  ,{ "name": "macaravita", "size": "14" }
+  ,{ "name": "lebrija", "size": "5427" }
+  ,{ "name": "paramo", "size": "764" }
+  ,{ "name": "puerto boyaca", "size": "1" }
+  ,{ "name": "malaga", "size": "301" }
+  ,{ "name": "gmbita", "size": "2" }
+  ,{ "name": "suaita", "size": "2714" }
+  ,{ "name": "guaca", "size": "2138" }
+  ,{ "name": "sabana de torres", "size": "1432" }
+  ,{ "name": "coromoro", "size": "93" }
+  ,{ "name": "vetas", "size": "952" }
+  ,{ "name": "aratoca", "size": "171" }
+  ,{ "name": "cepita", "size": "220" }
+  ,{ "name": "guepsa", "size": "51" }
+  ,{ "name": "encino", "size": "3270" }
+  ,{ "name": "zapatoca", "size": "887" }
+  ,{ "name": "aguada", "size": "9" }
+  ,{ "name": "cabrera", "size": "5" }
+  ,{ "name": "tona", "size": "5020" }
+  ,{ "name": "simacota", "size": "222" }
+  ,{ "name": "berlin", "size": "2" }
+  ,{ "name": "san jose de miranda", "size": "396" }
+  ,{ "name": "san vicente de chucuri", "size": "2285" }
+  ,{ "name": "vijagual", "size": "1" }
+  ,{ "name": "barrancabermeja", "size": "4469" }
+  ,{ "name": "indeterminado", "size": "107049" }
+  ,{ "name": "matanza", "size": "289" }
+  ,{ "name": "pinchote", "size": "159" }
+  ,{ "name": "cantagallo", "size": "5" }
+  ,{ "name": "giron", "size": "2471" }
+  ,{ "name": "pie de cuesta", "size": "7909" }
+  ,{ "name": "boca sogamoso", "size": "1" }
+  ,{ "name": "santa barbara", "size": "2964" }
+  ,{ "name": "serrania yariquies", "size": "3" }
+  ,{ "name": "san alberto", "size": "4" }
+  ,{ "name": "puente sogamoso", "size": "2" }
+  ,{ "name": "mogotes", "size": "93" }
+  ,{ "name": "guapota", "size": "25" }
+  ,{ "name": "charala", "size": "9040" }
+  ,{ "name": "charta", "size": "243" }
+  ,{ "name": "jordan", "size": "9" }
+  ,{ "name": "san gil", "size": "1180" }
+  ,{ "name": "california", "size": "1102" }
+  ,{ "name": "chima", "size": "20" }
+  ,{ "name": "cerrito", "size": "579" }
+  ,{ "name": "san miguel", "size": "7" }
+  ,{ "name": "puerto parra", "size": "1459" }
+  ,{ "name": "san andres", "size": "67" }
+  ,{ "name": "san joaquin", "size": "129" }
+  ,{ "name": "galan", "size": "244" }
+  ,{ "name": "virolin", "size": "104" }
+  ,{ "name": "el playon", "size": "989" }
+  ,{ "name": "oiba", "size": "516" }
+  ,{ "name": "puente nacional", "size": "267" }
+  ,{ "name": "contratacion", "size": "2" }
+  ,{ "name": "puerto wilches", "size": "1767" }
+  ,{ "name": "velez", "size": "185" }
+  ,{ "name": "chipata", "size": "30" }
+  ,{ "name": "sucre", "size": "671" }
+  ,{ "name": "san jose de cucuta", "size": "1" }
+  ,{ "name": "cimitarra", "size": "8646" }
+  ,{ "name": "santander", "size": "1" }
+  ,{ "name": "curiti", "size": "148" }
+  ,{ "name": "la paz", "size": "84" }
+  ,{ "name": "cucutilla", "size": "6" }
+  ,{ "name": "villanueva", "size": "157" }
+  ,{ "name": "encizo", "size": "5" }
+  ,{ "name": "catatumbo", "size": "105" }
+  ,{ "name": "florian", "size": "127" }
+  ,{ "name": "pamplona", "size": "3" }
+  ,{ "name": "sabaneta", "size": "1" }
+  ,{ "name": "landazuri", "size": "295" }
+  ,{ "name": "confines", "size": "18" }
+  ,{ "name": "abrego", "size": "2" }
+  ,{ "name": "surata", "size": "584" }
+  ,{ "name": "guavata", "size": "8" }
+  ,{ "name": "concepcion", "size": "2108" }
+  ,{ "name": "santa helena del opon", "size": "1" }
+  ,{ "name": "puerto araujo", "size": "4" }
+  ,{ "name": "molagavita", "size": "13" }
+  ,{ "name": "bolivar", "size": "639" }
+  ,{ "name": "rionegro", "size": "3385" }
+  ,{ "name": "el playn", "size": "1" }
+  ,{ "name": "barbosa", "size": "143" }
+  ,{ "name": "guadalupe", "size": "121" }
+  ,{ "name": "bucaramanga", "size": "4849" }
+  ,{ "name": "ocamonte", "size": "28" }
+  ,{ "name": "el carmen de chucuri", "size": "5539" }
+  ,{ "name": "enciso", "size": "178" }
+ ]},
+ { "name": "casanare", "children": [ 
+  { "name": "aguazul", "size": "3314" }
+  ,{ "name": "sacama", "size": "630" }
+  ,{ "name": "pore", "size": "2414" }
+  ,{ "name": "agua azul", "size": "37" }
+  ,{ "name": "casanare", "size": "6" }
+  ,{ "name": "tamara", "size": "986" }
+  ,{ "name": "villanueva", "size": "443" }
+  ,{ "name": "paz de ariporo", "size": "12654" }
+  ,{ "name": "sabanalarga", "size": "2644" }
+  ,{ "name": "chameza", "size": "548" }
+  ,{ "name": "nunchia", "size": "1312" }
+  ,{ "name": "yopal", "size": "9192" }
+  ,{ "name": "trinidad", "size": "1298" }
+  ,{ "name": "monterrey", "size": "286" }
+  ,{ "name": "recetor", "size": "26" }
+  ,{ "name": "puerto narino", "size": "1" }
+  ,{ "name": "cravo norte", "size": "13" }
+  ,{ "name": "orocue", "size": "4772" }
+  ,{ "name": "hato corozal", "size": "7101" }
+  ,{ "name": "indeterminado", "size": "92597" }
+  ,{ "name": "tame", "size": "13" }
+  ,{ "name": "barranca de upia", "size": "1" }
+  ,{ "name": "la salina", "size": "225" }
+  ,{ "name": "santa rosalia", "size": "30" }
+  ,{ "name": "mani", "size": "1469" }
+  ,{ "name": "tauramena", "size": "7429" }
+  ,{ "name": "san luis de palenque", "size": "836" }
+  ,{ "name": "san jose del guaviare", "size": "9" }
+  ,{ "name": "aguaclara", "size": "1" }
+ ]},
+ { "name": "tolima", "children": [ 
+  { "name": "coyaima", "size": "494" }
+  ,{ "name": "rovira", "size": "530" }
+  ,{ "name": "vistahermosa", "size": "4" }
+  ,{ "name": "ortega", "size": "155" }
+  ,{ "name": "mariquita", "size": "3511" }
+  ,{ "name": "cajamarca", "size": "97416" }
+  ,{ "name": "murillo", "size": "3301" }
+  ,{ "name": "cambao", "size": "1" }
+  ,{ "name": "guayabal", "size": "4" }
+  ,{ "name": "el fresno", "size": "582" }
+  ,{ "name": "chaparral", "size": "4359" }
+  ,{ "name": "caldas viejo", "size": "1" }
+  ,{ "name": "ambalema", "size": "1086" }
+  ,{ "name": "natagaima", "size": "1960" }
+  ,{ "name": "el guamo", "size": "779" }
+  ,{ "name": "santa isabel", "size": "3751" }
+  ,{ "name": "anaime", "size": "35" }
+  ,{ "name": "flandes", "size": "297" }
+  ,{ "name": "venadilo", "size": "1" }
+  ,{ "name": "lbano", "size": "15" }
+  ,{ "name": "calarca", "size": "2" }
+  ,{ "name": "girardot", "size": "3" }
+  ,{ "name": "falan", "size": "259" }
+  ,{ "name": "prado", "size": "1881" }
+  ,{ "name": "purificacin", "size": "272" }
+  ,{ "name": "rioblanco", "size": "3432" }
+  ,{ "name": "san luis", "size": "4226" }
+  ,{ "name": "villahermosa", "size": "303" }
+  ,{ "name": "mendez", "size": "6897" }
+  ,{ "name": "pramo de ruz", "size": "1" }
+  ,{ "name": "juntas", "size": "1" }
+  ,{ "name": "melgar", "size": "1377" }
+  ,{ "name": "lrida", "size": "2" }
+  ,{ "name": "san antonio", "size": "604" }
+  ,{ "name": "roncesvalles", "size": "6466" }
+  ,{ "name": "alvarado", "size": "1448" }
+  ,{ "name": "alpujarra", "size": "32" }
+  ,{ "name": "villamara", "size": "1" }
+  ,{ "name": "anolaima", "size": "1" }
+  ,{ "name": "manizales", "size": "1" }
+  ,{ "name": "casablanca", "size": "7" }
+  ,{ "name": "gualanday", "size": "4" }
+  ,{ "name": "suarez", "size": "191" }
+  ,{ "name": "casabianca", "size": "453" }
+  ,{ "name": "herveo", "size": "3187" }
+  ,{ "name": "planadas", "size": "1385" }
+  ,{ "name": "saldana", "size": "303" }
+  ,{ "name": "icononzo", "size": "1262" }
+  ,{ "name": "honda", "size": "5086" }
+  ,{ "name": "piedras", "size": "1757" }
+  ,{ "name": "indeterminado", "size": "160914" }
+  ,{ "name": "herrera", "size": "39" }
+  ,{ "name": "coello", "size": "14701" }
+  ,{ "name": "villa rica", "size": "1158" }
+  ,{ "name": "dolores", "size": "442" }
+  ,{ "name": "venadillo", "size": "1935" }
+  ,{ "name": "ibague", "size": "14252" }
+  ,{ "name": "carmen de apicala", "size": "385" }
+  ,{ "name": "cunday", "size": "2127" }
+  ,{ "name": "el espinal", "size": "1011" }
+  ,{ "name": "valle de san juan", "size": "19" }
+  ,{ "name": "palocabildo", "size": "12" }
+  ,{ "name": "ataco", "size": "190" }
+  ,{ "name": "armero", "size": "8377" }
+  ,{ "name": "libano", "size": "1100" }
+  ,{ "name": "anzoategui", "size": "1967" }
+  ,{ "name": "lerida", "size": "314" }
+ ]},
+ { "name": "risaralda", "children": [ 
+  { "name": "quinchia", "size": "81" }
+  ,{ "name": "cajones", "size": "27" }
+  ,{ "name": "norcasia", "size": "33" }
+  ,{ "name": "balboa", "size": "423" }
+  ,{ "name": "mistrato", "size": "6165" }
+  ,{ "name": "viterbo", "size": "6" }
+  ,{ "name": "la virginia", "size": "1112" }
+  ,{ "name": "taiba", "size": "8" }
+  ,{ "name": "dos quebradas", "size": "1" }
+  ,{ "name": "la celia", "size": "171" }
+  ,{ "name": "guatica", "size": "51" }
+  ,{ "name": "ciato", "size": "2" }
+  ,{ "name": "apa", "size": "1" }
+  ,{ "name": "leo", "size": "11" }
+  ,{ "name": "pica de oso", "size": "18" }
+  ,{ "name": "marsella", "size": "898" }
+  ,{ "name": "la clarita", "size": "8" }
+  ,{ "name": "montezuma", "size": "17" }
+  ,{ "name": "rio claro", "size": "47" }
+  ,{ "name": "indeterminado", "size": "287100" }
+  ,{ "name": "apia", "size": "1885" }
+  ,{ "name": "pueblo rico", "size": "10696" }
+  ,{ "name": "gutica", "size": "2" }
+  ,{ "name": "finlandia", "size": "3" }
+  ,{ "name": "belen de umbria", "size": "247" }
+  ,{ "name": "la esperanza", "size": "16" }
+  ,{ "name": "dosquebradas", "size": "253" }
+  ,{ "name": "quincha", "size": "40" }
+  ,{ "name": "santa rosa de cabal", "size": "10177" }
+  ,{ "name": "beln de umbra", "size": "5" }
+  ,{ "name": "minas", "size": "10" }
+  ,{ "name": "santuario", "size": "3600" }
+  ,{ "name": "pereira", "size": "29580" }
+  ,{ "name": "santa cecilia", "size": "1" }
+  ,{ "name": "filandia", "size": "1" }
+ ]},
+ { "name": "san andres y providencia", "children": [ 
+  { "name": "providencia", "size": "153" }
+  ,{ "name": "indeterminado", "size": "2" }
+ ]},
+ { "name": "cauca", "children": [ 
+  { "name": "timbiqui", "size": "389" }
+  ,{ "name": "florencia", "size": "1" }
+  ,{ "name": "corinto", "size": "91" }
+  ,{ "name": "mercaderes", "size": "504" }
+  ,{ "name": "guapi", "size": "23695" }
+  ,{ "name": "isla gorgona", "size": "3" }
+  ,{ "name": "jambalo", "size": "10" }
+  ,{ "name": "purace", "size": "4336" }
+  ,{ "name": "el tambo", "size": "14557" }
+  ,{ "name": "padilla", "size": "2" }
+  ,{ "name": "pramo de moscopn", "size": "1" }
+  ,{ "name": "timbio", "size": "525" }
+  ,{ "name": "palace", "size": "1" }
+  ,{ "name": "patia", "size": "1435" }
+  ,{ "name": "pata", "size": "4" }
+  ,{ "name": "santander de quilichao", "size": "2748" }
+  ,{ "name": "la vega", "size": "6357" }
+  ,{ "name": "sotara", "size": "458" }
+  ,{ "name": "totoro", "size": "640" }
+  ,{ "name": "munchique", "size": "3" }
+  ,{ "name": "inza", "size": "1118" }
+  ,{ "name": "sucre", "size": "10" }
+  ,{ "name": "santa rosa", "size": "3070" }
+  ,{ "name": "san sebastian", "size": "295" }
+  ,{ "name": "san sebastin", "size": "2" }
+  ,{ "name": "balboa", "size": "94" }
+  ,{ "name": "leticia", "size": "2" }
+  ,{ "name": "piendamo", "size": "405" }
+  ,{ "name": "popayan", "size": "5712" }
+  ,{ "name": "argelia", "size": "652" }
+  ,{ "name": "morales", "size": "168" }
+  ,{ "name": "silvia", "size": "708" }
+  ,{ "name": "la sierra", "size": "44" }
+  ,{ "name": "paez", "size": "298" }
+  ,{ "name": "suarez", "size": "113" }
+  ,{ "name": "piamonte", "size": "2726" }
+  ,{ "name": "cajibio", "size": "2062" }
+  ,{ "name": "pramo de san pedro", "size": "1" }
+  ,{ "name": "almaguer", "size": "213" }
+  ,{ "name": "toribio", "size": "196" }
+  ,{ "name": "buenos aires", "size": "323" }
+  ,{ "name": "lopez", "size": "412" }
+  ,{ "name": "caloto", "size": "555" }
+  ,{ "name": "miranda", "size": "26" }
+  ,{ "name": "indeterminado", "size": "68383" }
+  ,{ "name": "puerto tejada", "size": "84" }
+  ,{ "name": "caldono", "size": "639" }
+  ,{ "name": "coconuco", "size": "71" }
+  ,{ "name": "bolivar", "size": "2281" }
+  ,{ "name": "villa rica", "size": "27" }
+  ,{ "name": "mallana", "size": "1" }
+  ,{ "name": "timbo", "size": "1" }
+  ,{ "name": "rosas", "size": "128" }
+  ,{ "name": "pramo de purac", "size": "1" }
+  ,{ "name": "guachene", "size": "14" }
+ ]},
+ { "name": "la guajira", "children": [ 
+  { "name": "urumita", "size": "128" }
+  ,{ "name": "albania", "size": "23854" }
+  ,{ "name": "manaure", "size": "748" }
+  ,{ "name": "indeterminado", "size": "97037" }
+  ,{ "name": "el molino", "size": "12" }
+  ,{ "name": "villanueva", "size": "40" }
+  ,{ "name": "riohacha", "size": "8387" }
+  ,{ "name": "san juan del cesar", "size": "229" }
+  ,{ "name": "rioacha", "size": "142" }
+  ,{ "name": "la jagua del pilar", "size": "633" }
+  ,{ "name": "uribia", "size": "7911" }
+  ,{ "name": "maicao", "size": "1104" }
+  ,{ "name": "barrancas", "size": "2311" }
+  ,{ "name": "hato nuevo", "size": "231" }
+  ,{ "name": "distraccion", "size": "353" }
+  ,{ "name": "perico", "size": "1" }
+  ,{ "name": "fonseca", "size": "205" }
+  ,{ "name": "santa marta", "size": "1" }
+  ,{ "name": "dibulla", "size": "4871" }
+ ]},
+ { "name": "vaupes", "children": [ 
+  { "name": "santa rosa", "size": "1" }
+  ,{ "name": "yavarate", "size": "499" }
+  ,{ "name": "taraira", "size": "5382" }
+  ,{ "name": "pacoa", "size": "5635" }
+  ,{ "name": "papunahua", "size": "608" }
+  ,{ "name": "papunaua", "size": "105" }
+  ,{ "name": "caruru", "size": "749" }
+  ,{ "name": "indeterminado", "size": "63020" }
+  ,{ "name": "circasia", "size": "1" }
+  ,{ "name": "mitu", "size": "9384" }
+  ,{ "name": "la pedrera", "size": "2" }
+ ]},
+ { "name": "cesar", "children": [ 
+  { "name": "el copey", "size": "386" }
+  ,{ "name": "san alberto", "size": "473" }
+  ,{ "name": "manaure", "size": "2193" }
+  ,{ "name": "la gloria", "size": "301" }
+  ,{ "name": "sevilla", "size": "5" }
+  ,{ "name": "la paz", "size": "1763" }
+  ,{ "name": "el cinco", "size": "1" }
+  ,{ "name": "chiriguana", "size": "206" }
+  ,{ "name": "gonzalez", "size": "78" }
+  ,{ "name": "pelaya", "size": "51" }
+  ,{ "name": "la jagua de ibinco", "size": "1" }
+  ,{ "name": "san juan de cesar", "size": "1" }
+  ,{ "name": "momil", "size": "1" }
+  ,{ "name": "astrea", "size": "18" }
+  ,{ "name": "pailitas", "size": "138" }
+  ,{ "name": "san diego", "size": "20" }
+  ,{ "name": "gamarra", "size": "344" }
+  ,{ "name": "rio de oro", "size": "53" }
+  ,{ "name": "indeterminado", "size": "34085" }
+  ,{ "name": "chimichagua", "size": "2911" }
+  ,{ "name": "agustin codazzi", "size": "1271" }
+  ,{ "name": "valledupar", "size": "7707" }
+  ,{ "name": "la jagua de ibirico", "size": "1185" }
+  ,{ "name": "tamalameque", "size": "61" }
+  ,{ "name": "becerril", "size": "1306" }
+  ,{ "name": "san roque", "size": "1" }
+  ,{ "name": "san martin", "size": "520" }
+  ,{ "name": "aguachica", "size": "243" }
+  ,{ "name": "pueblo bello", "size": "253" }
+  ,{ "name": "curumani", "size": "115" }
+  ,{ "name": "la loma", "size": "1" }
+  ,{ "name": "el paso", "size": "188" }
+  ,{ "name": "bosconia", "size": "106" }
+ ]},
+ { "name": "guainia", "children": [ 
+  { "name": "santa rosa", "size": "3" }
+  ,{ "name": "mapiripana", "size": "18" }
+  ,{ "name": "barranco minas", "size": "17586" }
+  ,{ "name": "campo alegre", "size": "1" }
+  ,{ "name": "san felipe", "size": "474" }
+  ,{ "name": "la guadalupe", "size": "164" }
+  ,{ "name": "inirida", "size": "16941" }
+  ,{ "name": "indeterminado", "size": "20485" }
+  ,{ "name": "morichal", "size": "201" }
+  ,{ "name": "cacahual", "size": "1195" }
+  ,{ "name": "puerto colombia", "size": "2055" }
+  ,{ "name": "pana pana", "size": "390" }
+ ]},
+ { "name": "putumayo", "children": [ 
+  { "name": "mocoa", "size": "8451" }
+  ,{ "name": "villa garzon", "size": "2" }
+  ,{ "name": "ospina", "size": "1" }
+  ,{ "name": "puerto limn", "size": "1" }
+  ,{ "name": "indeterminado", "size": "120273" }
+  ,{ "name": "san franciso", "size": "1" }
+  ,{ "name": "puerto guzman", "size": "845" }
+  ,{ "name": "tangua", "size": "1" }
+  ,{ "name": "orito", "size": "2321" }
+  ,{ "name": "puerto caicedo", "size": "175" }
+  ,{ "name": "valle del guamuez", "size": "150" }
+  ,{ "name": "santiago", "size": "619" }
+  ,{ "name": "colon", "size": "899" }
+  ,{ "name": "villagarzon", "size": "1002" }
+  ,{ "name": "san miguel", "size": "158" }
+  ,{ "name": "sibundoy", "size": "2532" }
+  ,{ "name": "puerto asis", "size": "1292" }
+  ,{ "name": "el encano", "size": "2" }
+  ,{ "name": "san francisco", "size": "1870" }
+  ,{ "name": "puerto leguizamo", "size": "5010" }
+ ]},
+ { "name": "quindio", "children": [ 
+  { "name": "pijao", "size": "874" }
+  ,{ "name": "la tebaida", "size": "1175" }
+  ,{ "name": "indeterminado", "size": "97078" }
+  ,{ "name": "armenia", "size": "2613" }
+  ,{ "name": "santa isabel", "size": "3" }
+  ,{ "name": "genova", "size": "1902" }
+  ,{ "name": "montenegro", "size": "1417" }
+  ,{ "name": "finlandia", "size": "3" }
+  ,{ "name": "circasia", "size": "3182" }
+  ,{ "name": "bremen", "size": "2" }
+  ,{ "name": "calarca", "size": "6000" }
+  ,{ "name": "buena vista", "size": "708" }
+  ,{ "name": "salento", "size": "11028" }
+  ,{ "name": "azoategui", "size": "1" }
+  ,{ "name": "quimbaya", "size": "3849" }
+  ,{ "name": "cordoba", "size": "2514" }
+  ,{ "name": "pereira", "size": "14" }
+  ,{ "name": "san miguel", "size": "1" }
+  ,{ "name": "filandia", "size": "13430" }
+ ]},
+ { "name": "bogota, d.c.", "children": [ 
+  { "name": "indeterminado", "size": "80577" }
+  ,{ "name": "bogota d.c.", "size": "12963" }
+ ]},
+ { "name": "guaviare", "children": [ 
+  { "name": "tomachipan", "size": "1" }
+  ,{ "name": "pacoa", "size": "7" }
+  ,{ "name": "calamar", "size": "2338" }
+  ,{ "name": "el retorno", "size": "3246" }
+  ,{ "name": "indeterminado", "size": "24107" }
+  ,{ "name": "inrida", "size": "5" }
+  ,{ "name": "san jose del guaviare", "size": "19834" }
+  ,{ "name": "miraflores", "size": "1908" }
+ ]},
+ { "name": "valle del cauca", "children": [ 
+  { "name": "yumbo", "size": "1709" }
+  ,{ "name": "palmira", "size": "7087" }
+  ,{ "name": "juanchaco", "size": "1" }
+  ,{ "name": "florida", "size": "725" }
+  ,{ "name": "guacari", "size": "477" }
+  ,{ "name": "caicedonia", "size": "372" }
+  ,{ "name": "la cumbre", "size": "5296" }
+  ,{ "name": "bugalagrande", "size": "2559" }
+  ,{ "name": "riofro", "size": "2" }
+  ,{ "name": "costa del pacfico", "size": "3" }
+  ,{ "name": "uramba", "size": "9" }
+  ,{ "name": "el cerrito", "size": "4370" }
+  ,{ "name": "ansermanuevo", "size": "2144" }
+  ,{ "name": "la union", "size": "539" }
+  ,{ "name": "zarzal", "size": "1506" }
+  ,{ "name": "keremal", "size": "1" }
+  ,{ "name": "andalucia", "size": "391" }
+  ,{ "name": "malpelo island", "size": "11" }
+  ,{ "name": "el dovio", "size": "998" }
+  ,{ "name": "guadalajara de buga", "size": "26002" }
+  ,{ "name": "vijes", "size": "5002" }
+  ,{ "name": "restrepo", "size": "3308" }
+  ,{ "name": "obando", "size": "274" }
+  ,{ "name": "dagua", "size": "15400" }
+  ,{ "name": "candelaria", "size": "183" }
+  ,{ "name": "el cairo", "size": "3962" }
+  ,{ "name": "buenaventura", "size": "56921" }
+  ,{ "name": "san pedro", "size": "2374" }
+  ,{ "name": "el darien", "size": "164" }
+  ,{ "name": "trujillo", "size": "1018" }
+  ,{ "name": "pradera", "size": "455" }
+  ,{ "name": "gorgona island", "size": "14" }
+  ,{ "name": "pichinde", "size": "1" }
+  ,{ "name": "la leonera", "size": "1" }
+  ,{ "name": "san antonio", "size": "1" }
+  ,{ "name": "sevilla", "size": "2468" }
+  ,{ "name": "argelia", "size": "395" }
+  ,{ "name": "tulua", "size": "5856" }
+  ,{ "name": "toro", "size": "3689" }
+  ,{ "name": "ginebra", "size": "247" }
+  ,{ "name": "calima", "size": "34671" }
+  ,{ "name": "loboguerrero", "size": "1" }
+  ,{ "name": "alcala", "size": "721" }
+  ,{ "name": "roldanillo", "size": "914" }
+  ,{ "name": "cartago", "size": "1102" }
+  ,{ "name": "ulloa", "size": "147" }
+  ,{ "name": "jamundi", "size": "9816" }
+  ,{ "name": "el aguila", "size": "69" }
+  ,{ "name": "pance", "size": "3" }
+  ,{ "name": "indeterminado", "size": "537999" }
+  ,{ "name": "tableros", "size": "66" }
+  ,{ "name": "rio frio", "size": "2999" }
+  ,{ "name": "bolivar", "size": "1188" }
+  ,{ "name": "versalles", "size": "68" }
+  ,{ "name": "yotoco", "size": "6377" }
+  ,{ "name": "viges", "size": "1" }
+  ,{ "name": "la victoria", "size": "330" }
+  ,{ "name": "santiago de cali", "size": "2240" }
+  ,{ "name": "andaluca", "size": "2" }
+ ]},
+ { "name": "vichada", "children": [ 
+  { "name": "san jose de ocune", "size": "1" }
+  ,{ "name": "cumaribo", "size": "23858" }
+  ,{ "name": "barranco minas", "size": "1" }
+  ,{ "name": "la primavera", "size": "3874" }
+  ,{ "name": "gaviota", "size": "1" }
+  ,{ "name": "cumarimbo", "size": "3" }
+  ,{ "name": "indeterminado", "size": "18608" }
+  ,{ "name": "santa rita", "size": "22" }
+  ,{ "name": "santa rosalia", "size": "1345" }
+  ,{ "name": "amanaven", "size": "11" }
+  ,{ "name": "puerto carreno", "size": "23793" }
+  ,{ "name": "puerto gaitan", "size": "3" }
+ ]},
+ { "name": "narino", "children": [ 
+  { "name": "el rosario", "size": "80" }
+  ,{ "name": "santa barbara", "size": "871" }
+  ,{ "name": "pupiales", "size": "45" }
+  ,{ "name": "la cruz", "size": "2348" }
+  ,{ "name": "policarpa", "size": "221" }
+  ,{ "name": "guaitarilla", "size": "13" }
+  ,{ "name": "magui", "size": "316" }
+  ,{ "name": "roberto payan", "size": "23" }
+  ,{ "name": "samaniego", "size": "156" }
+  ,{ "name": "alban", "size": "92" }
+  ,{ "name": "tangua", "size": "1390" }
+  ,{ "name": "mallama", "size": "2205" }
+  ,{ "name": "el penol", "size": "114" }
+  ,{ "name": "ricaurte", "size": "368636" }
+  ,{ "name": "francisco pizarro", "size": "139" }
+  ,{ "name": "contadero", "size": "30" }
+  ,{ "name": "tumaco", "size": "6418" }
+  ,{ "name": "arboleda", "size": "18" }
+  ,{ "name": "el tambo", "size": "136" }
+  ,{ "name": "san pedro de cartago", "size": "6" }
+  ,{ "name": "consaca", "size": "1512" }
+  ,{ "name": "leiva", "size": "101" }
+  ,{ "name": "san jose", "size": "6" }
+  ,{ "name": "la union", "size": "433" }
+  ,{ "name": "guachucal", "size": "53" }
+  ,{ "name": "la llanada", "size": "42" }
+  ,{ "name": "iles", "size": "27" }
+  ,{ "name": "buesaco", "size": "591" }
+  ,{ "name": "ospina", "size": "39" }
+  ,{ "name": "san bernardo", "size": "146" }
+  ,{ "name": "narino", "size": "136" }
+  ,{ "name": "orito", "size": "6" }
+  ,{ "name": "santa cruz", "size": "99" }
+  ,{ "name": "los andes sotomayor", "size": "1690" }
+  ,{ "name": "san lorenzo", "size": "153" }
+  ,{ "name": "gualmatan", "size": "2079" }
+  ,{ "name": "galeras", "size": "2" }
+  ,{ "name": "santiago", "size": "1" }
+  ,{ "name": "ipiales", "size": "1853" }
+  ,{ "name": "linares", "size": "20" }
+  ,{ "name": "funes", "size": "182" }
+  ,{ "name": "aldana", "size": "7" }
+  ,{ "name": "sibundoy", "size": "1" }
+  ,{ "name": "cumbitara", "size": "682" }
+  ,{ "name": "chachagui", "size": "714" }
+  ,{ "name": "yacuanquer", "size": "1239" }
+  ,{ "name": "pasto", "size": "20248" }
+  ,{ "name": "imues", "size": "291" }
+  ,{ "name": "el charco", "size": "103" }
+  ,{ "name": "puerres", "size": "3599" }
+  ,{ "name": "olaya herrera", "size": "101" }
+  ,{ "name": "la florida", "size": "551" }
+  ,{ "name": "la tola", "size": "1381" }
+  ,{ "name": "taminango", "size": "3182" }
+  ,{ "name": "mosquera", "size": "502" }
+  ,{ "name": "cumbal", "size": "1729" }
+  ,{ "name": "potosi", "size": "90" }
+  ,{ "name": "el tablon de gomez", "size": "2249" }
+  ,{ "name": "san pablo", "size": "6" }
+  ,{ "name": "ancuya", "size": "82" }
+  ,{ "name": "belen", "size": "20" }
+  ,{ "name": "cuaspud", "size": "6" }
+  ,{ "name": "sapuyes", "size": "522" }
+  ,{ "name": "indeterminado", "size": "58972" }
+  ,{ "name": "el espino", "size": "3" }
+  ,{ "name": "sandona", "size": "330" }
+  ,{ "name": "colon", "size": "11" }
+  ,{ "name": "cordoba", "size": "29" }
+  ,{ "name": "tuquerres", "size": "2673" }
+  ,{ "name": "barbacoas", "size": "11368" }
+ ]},
+ { "name": "bolivar", "children": [ 
+  { "name": "mahates", "size": "67" }
+  ,{ "name": "calamar", "size": "159" }
+  ,{ "name": "zambrano", "size": "2706" }
+  ,{ "name": "santa rosa de lima norte de bolivar", "size": "141" }
+  ,{ "name": "achi", "size": "202" }
+  ,{ "name": "talaigua nuevo", "size": "36" }
+  ,{ "name": "san fernando", "size": "835" }
+  ,{ "name": "norosi", "size": "186" }
+  ,{ "name": "turbaco", "size": "871" }
+  ,{ "name": "el penon", "size": "33" }
+  ,{ "name": "san juan de nepomuceno", "size": "1194" }
+  ,{ "name": "arjona", "size": "335" }
+  ,{ "name": "barranco de loba", "size": "79" }
+  ,{ "name": "magangue", "size": "866" }
+  ,{ "name": "cicuco", "size": "40" }
+  ,{ "name": "san cristobal", "size": "120" }
+  ,{ "name": "mompos", "size": "2406" }
+  ,{ "name": "el guamo", "size": "42" }
+  ,{ "name": "cartagena de indias", "size": "7072" }
+  ,{ "name": "turbana", "size": "66" }
+  ,{ "name": "san jacinto", "size": "2996" }
+  ,{ "name": "corozal", "size": "5" }
+  ,{ "name": "montecristo", "size": "288" }
+  ,{ "name": "arenal", "size": "43" }
+  ,{ "name": "rio viejo", "size": "136" }
+  ,{ "name": "san pedro", "size": "1" }
+  ,{ "name": "san juan nepomuceno", "size": "6944" }
+  ,{ "name": "santa catalina", "size": "1808" }
+  ,{ "name": "tiquisio", "size": "62" }
+  ,{ "name": "san francisco de loba", "size": "325" }
+  ,{ "name": "islas del rosario", "size": "8" }
+  ,{ "name": "san onofre", "size": "1" }
+  ,{ "name": "morales", "size": "559" }
+  ,{ "name": "hatillo de loba", "size": "357" }
+  ,{ "name": "villanueva", "size": "28" }
+  ,{ "name": "clemencia", "size": "79" }
+  ,{ "name": "el carmen de bolivar", "size": "568" }
+  ,{ "name": "altos del rosario", "size": "4" }
+  ,{ "name": "quimari", "size": "4" }
+  ,{ "name": "santa rosa del sur", "size": "981" }
+  ,{ "name": "margarita", "size": "202" }
+  ,{ "name": "simiti", "size": "150" }
+  ,{ "name": "san martin de loba", "size": "96" }
+  ,{ "name": "san pablo", "size": "2836" }
+  ,{ "name": "indeterminado", "size": "47848" }
+  ,{ "name": "maria la baja", "size": "117" }
+  ,{ "name": "regidor", "size": "49" }
+  ,{ "name": "arroyohondo", "size": "2" }
+  ,{ "name": "cantagallo", "size": "699" }
+  ,{ "name": "soplaviento", "size": "69" }
+  ,{ "name": "cordoba", "size": "340" }
+  ,{ "name": "pinillos", "size": "140" }
+  ,{ "name": "san estanislao", "size": "30" }
+ ]},
+ { "name": "caqueta", "children": [ 
+  { "name": "la montanita", "size": "821" }
+  ,{ "name": "curillo", "size": "27" }
+  ,{ "name": "san vicente del caguan", "size": "6997" }
+  ,{ "name": "san jose de fragua", "size": "1816" }
+  ,{ "name": "venecia", "size": "1" }
+  ,{ "name": "el doncello", "size": "274" }
+  ,{ "name": "albania", "size": "96" }
+  ,{ "name": "morelia", "size": "824" }
+  ,{ "name": "indeterminado", "size": "35298" }
+  ,{ "name": "solita", "size": "20" }
+  ,{ "name": "araracuara", "size": "7" }
+  ,{ "name": "florencia", "size": "8416" }
+  ,{ "name": "belen de los andaquies", "size": "77730" }
+  ,{ "name": "puerto rico", "size": "644" }
+  ,{ "name": "bugalagrande", "size": "1" }
+  ,{ "name": "el paujil", "size": "58" }
+  ,{ "name": "puerto milan", "size": "317" }
+  ,{ "name": "solano", "size": "32882" }
+  ,{ "name": "cartagena del chaira", "size": "259" }
+  ,{ "name": "valparaiso", "size": "305" }
+ ]},
+ { "name": "norte de santander", "children": [ 
+  { "name": "labateca", "size": "135" }
+  ,{ "name": "cacota", "size": "94" }
+  ,{ "name": "san jose de cucuta", "size": "986" }
+  ,{ "name": "carmen de tonchala", "size": "1" }
+  ,{ "name": "zulia", "size": "364" }
+  ,{ "name": "cachira", "size": "451" }
+  ,{ "name": "ocana", "size": "812" }
+  ,{ "name": "gramalote", "size": "43" }
+  ,{ "name": "cucutilla", "size": "2962" }
+  ,{ "name": "durania", "size": "18" }
+  ,{ "name": "ragonvalia", "size": "9" }
+  ,{ "name": "chitaga", "size": "5598" }
+  ,{ "name": "herran", "size": "1431" }
+  ,{ "name": "pamplona", "size": "2266" }
+  ,{ "name": "los patios", "size": "92" }
+  ,{ "name": "el carmen", "size": "68" }
+  ,{ "name": "salazar", "size": "138" }
+  ,{ "name": "abrego", "size": "193" }
+  ,{ "name": "teorama", "size": "11" }
+  ,{ "name": "arboledas", "size": "71" }
+  ,{ "name": "bucarasica", "size": "2" }
+  ,{ "name": "cerro oroque", "size": "4" }
+  ,{ "name": "bochalema", "size": "366" }
+  ,{ "name": "villa del rosario", "size": "98" }
+  ,{ "name": "nudo de santurban", "size": "1" }
+  ,{ "name": "indeterminado", "size": "10530" }
+  ,{ "name": "chinacota", "size": "261" }
+  ,{ "name": "convencion", "size": "204" }
+  ,{ "name": "la esperanza", "size": "152" }
+  ,{ "name": "villa caro", "size": "688" }
+  ,{ "name": "la playa", "size": "573" }
+  ,{ "name": "mutiscua", "size": "167" }
+  ,{ "name": "rio tachira pnn tama", "size": "1" }
+  ,{ "name": "hacari", "size": "41" }
+  ,{ "name": "san calixto", "size": "14" }
+  ,{ "name": "guarne", "size": "1" }
+  ,{ "name": "santiago", "size": "51" }
+  ,{ "name": "el tarra", "size": "30" }
+  ,{ "name": "sarare", "size": "3" }
+  ,{ "name": "san cayetano", "size": "208" }
+  ,{ "name": "el pramo", "size": "1" }
+  ,{ "name": "pamplonita", "size": "196" }
+  ,{ "name": "sardinata", "size": "167" }
+  ,{ "name": "tibu", "size": "723" }
+  ,{ "name": "toledo", "size": "3742" }
+  ,{ "name": "silos", "size": "158" }
+  ,{ "name": "puerto santander", "size": "57" }
+ ]},
+ { "name": "caldas", "children": [ 
+  { "name": "marquetalia", "size": "84" }
+  ,{ "name": "quinchia", "size": "5" }
+  ,{ "name": "norcasia", "size": "9240" }
+  ,{ "name": "pensilvania", "size": "1580" }
+  ,{ "name": "manzanares", "size": "456" }
+  ,{ "name": "viterbo", "size": "1284" }
+  ,{ "name": "villa maria", "size": "7251" }
+  ,{ "name": "la virginia", "size": "4" }
+  ,{ "name": "villamara", "size": "1615" }
+  ,{ "name": "belalczar", "size": "37" }
+  ,{ "name": "risaralda", "size": "76" }
+  ,{ "name": "la merced", "size": "128" }
+  ,{ "name": "manizales", "size": "30791" }
+  ,{ "name": "samana", "size": "6370" }
+  ,{ "name": "anserma", "size": "241" }
+  ,{ "name": "pcora", "size": "40" }
+  ,{ "name": "murillo", "size": "1" }
+  ,{ "name": "san jose", "size": "97" }
+  ,{ "name": "belalcazar", "size": "268" }
+  ,{ "name": "marulanda", "size": "1810" }
+  ,{ "name": "yolombo", "size": "1" }
+  ,{ "name": "san sebastian de mariquita", "size": "1" }
+  ,{ "name": "aranzazu", "size": "5460" }
+  ,{ "name": "supa", "size": "33" }
+  ,{ "name": "riosucio", "size": "824" }
+  ,{ "name": "pacora", "size": "691" }
+  ,{ "name": "indeterminado", "size": "456915" }
+  ,{ "name": "marmato", "size": "154" }
+  ,{ "name": "salamina", "size": "3075" }
+  ,{ "name": "la dorada", "size": "4195" }
+  ,{ "name": "supia", "size": "181" }
+  ,{ "name": "santagueda", "size": "1" }
+  ,{ "name": "chinchina", "size": "2130" }
+  ,{ "name": "beln de umbra", "size": "1" }
+  ,{ "name": "la victoria", "size": "4528" }
+  ,{ "name": "palestina", "size": "1430" }
+  ,{ "name": "canaveral", "size": "3" }
+  ,{ "name": "aguadas", "size": "1826" }
+  ,{ "name": "neira", "size": "1960" }
+  ,{ "name": "filadelfia", "size": "356" }
+ ]},
+ { "name": "choco", "children": [ 
+  { "name": "medio baudo", "size": "2840" }
+  ,{ "name": "rio iro", "size": "13" }
+  ,{ "name": "jurado", "size": "1048" }
+  ,{ "name": "sapzurro", "size": "8" }
+  ,{ "name": "bojaya", "size": "1868" }
+  ,{ "name": "pizarro", "size": "8" }
+  ,{ "name": "pie de pato", "size": "16" }
+  ,{ "name": "pavasa", "size": "30" }
+  ,{ "name": "bahia solano", "size": "14675" }
+  ,{ "name": "turbo", "size": "19" }
+  ,{ "name": "lloro", "size": "1840" }
+  ,{ "name": "guarato", "size": "1" }
+  ,{ "name": "tribuga", "size": "30" }
+  ,{ "name": "rio quito", "size": "1429" }
+  ,{ "name": "bajo baudo", "size": "1410" }
+  ,{ "name": "el carmen de atrato", "size": "3496" }
+  ,{ "name": "tado", "size": "2454" }
+  ,{ "name": "jurubida", "size": "1" }
+  ,{ "name": "istmina", "size": "2348" }
+  ,{ "name": "nuqui", "size": "14449" }
+  ,{ "name": "el litoral de san juan", "size": "2422" }
+  ,{ "name": "alto baudo", "size": "895" }
+  ,{ "name": "capurgana", "size": "6" }
+  ,{ "name": "certegui", "size": "410" }
+  ,{ "name": "chigorodo", "size": "3" }
+  ,{ "name": "el carmen del darien", "size": "478" }
+  ,{ "name": "medio san juan", "size": "557" }
+  ,{ "name": "san isidro", "size": "37" }
+  ,{ "name": "riosucio", "size": "13239" }
+  ,{ "name": "bagado", "size": "1646" }
+  ,{ "name": "indeterminado", "size": "114759" }
+  ,{ "name": "novita", "size": "1121" }
+  ,{ "name": "union panamericana", "size": "1553" }
+  ,{ "name": "trigana", "size": "4" }
+  ,{ "name": "medio atrato", "size": "3961" }
+  ,{ "name": "acandi", "size": "12148" }
+  ,{ "name": "san jose del palmar", "size": "7421" }
+  ,{ "name": "la sirena", "size": "6" }
+  ,{ "name": "condoto", "size": "499" }
+  ,{ "name": "unguia", "size": "4550" }
+  ,{ "name": "sipi", "size": "784" }
+  ,{ "name": "quibdo", "size": "12143" }
+  ,{ "name": "el canton del san pablo", "size": "12740" }
+  ,{ "name": "carepa", "size": "3" }
+ ]},
+ { "name": "meta", "children": [ 
+  { "name": "puerto lopez", "size": "40457" }
+  ,{ "name": "cabuyaro", "size": "4515" }
+  ,{ "name": "vistahermosa", "size": "2566" }
+  ,{ "name": "vista hermosa", "size": "628" }
+  ,{ "name": "cubarral", "size": "1763" }
+  ,{ "name": "castilla la nueva", "size": "1019" }
+  ,{ "name": "cumaral", "size": "2880" }
+  ,{ "name": "mapiripan", "size": "1754" }
+  ,{ "name": "florencia", "size": "2" }
+  ,{ "name": "san juanito", "size": "2376" }
+  ,{ "name": "acacas", "size": "2" }
+  ,{ "name": "san juan de arama", "size": "4669" }
+  ,{ "name": "el calvario", "size": "435" }
+  ,{ "name": "puerto concordia", "size": "422" }
+  ,{ "name": "la macarena", "size": "9363" }
+  ,{ "name": "mesetas", "size": "3694" }
+  ,{ "name": "el castillo", "size": "185" }
+  ,{ "name": "villaciencio", "size": "35" }
+  ,{ "name": "san miguel", "size": "1" }
+  ,{ "name": "lejanias", "size": "319" }
+  ,{ "name": "solano", "size": "1" }
+  ,{ "name": "san carlos de guaseva", "size": "1" }
+  ,{ "name": "el dorado", "size": "206" }
+  ,{ "name": "orocue", "size": "3" }
+  ,{ "name": "san vicente del caguan", "size": "2" }
+  ,{ "name": "guamal", "size": "2473" }
+  ,{ "name": "cumural", "size": "1" }
+  ,{ "name": "acacias", "size": "5287" }
+  ,{ "name": "angostura", "size": "1" }
+  ,{ "name": "indeterminado", "size": "172173" }
+  ,{ "name": "pipiral", "size": "6" }
+  ,{ "name": "macizo de sumapaz", "size": "1" }
+  ,{ "name": "villavicencio", "size": "15667" }
+  ,{ "name": "puerto gaitan", "size": "12346" }
+  ,{ "name": "puerto rico", "size": "664" }
+  ,{ "name": "granada", "size": "1372" }
+  ,{ "name": "barranca de upia", "size": "4127" }
+  ,{ "name": "restrepo", "size": "4585" }
+  ,{ "name": "fuente de oro", "size": "799" }
+  ,{ "name": "la uribe", "size": "3162" }
+  ,{ "name": "puerto marimba", "size": "1" }
+  ,{ "name": "puerto lleras", "size": "454" }
+  ,{ "name": "san martin", "size": "7157" }
+  ,{ "name": "san carlos de guaroa", "size": "1472" }
+ ]},
+ { "name": "cundinamarca", "children": [ 
+  { "name": "susa", "size": "104" }
+  ,{ "name": "tobia", "size": "2" }
+  ,{ "name": "quetame", "size": "413" }
+  ,{ "name": "guataqui", "size": "308" }
+  ,{ "name": "fusagasuga", "size": "3196" }
+  ,{ "name": "gambita", "size": "2" }
+  ,{ "name": "ricaurte", "size": "231" }
+  ,{ "name": "chia", "size": "1617" }
+  ,{ "name": "el penon", "size": "110" }
+  ,{ "name": "chaguani", "size": "151" }
+  ,{ "name": "fuquene", "size": "664" }
+  ,{ "name": "villagomez", "size": "65" }
+  ,{ "name": "zipacon", "size": "781" }
+  ,{ "name": "fumeque", "size": "2" }
+  ,{ "name": "anapoima", "size": "860" }
+  ,{ "name": "bojaca", "size": "2255" }
+  ,{ "name": "narino", "size": "838" }
+  ,{ "name": "la palma", "size": "232" }
+  ,{ "name": "la mesa", "size": "2093" }
+  ,{ "name": "chipaque", "size": "2547" }
+  ,{ "name": "medina", "size": "8554" }
+  ,{ "name": "utica", "size": "173" }
+  ,{ "name": "funza", "size": "475" }
+  ,{ "name": "sumapaz", "size": "3" }
+  ,{ "name": "suesca", "size": "1349" }
+  ,{ "name": "nemocon", "size": "312" }
+  ,{ "name": "quipile", "size": "318" }
+  ,{ "name": "arbelez", "size": "4" }
+  ,{ "name": "la vega", "size": "1911" }
+  ,{ "name": "viota", "size": "1084" }
+  ,{ "name": "san cayetano", "size": "385" }
+  ,{ "name": "madrid", "size": "1634" }
+  ,{ "name": "san antonio del tequendama", "size": "4117" }
+  ,{ "name": "tibacuy", "size": "642" }
+  ,{ "name": "cajica", "size": "321" }
+  ,{ "name": "vergara", "size": "62" }
+  ,{ "name": "guacheta", "size": "128" }
+  ,{ "name": "agua de dios", "size": "46" }
+  ,{ "name": "cachipay", "size": "728" }
+  ,{ "name": "carmen de carupa", "size": "1141" }
+  ,{ "name": "cucunuba", "size": "104" }
+  ,{ "name": "nilo", "size": "1453" }
+  ,{ "name": "anolaima", "size": "492" }
+  ,{ "name": "pacho", "size": "1528" }
+  ,{ "name": "cabrera", "size": "3541" }
+  ,{ "name": "villeta", "size": "2470" }
+  ,{ "name": "fomeque", "size": "18631" }
+  ,{ "name": "sasaima", "size": "2608" }
+  ,{ "name": "tocaima", "size": "526" }
+  ,{ "name": "salto", "size": "1" }
+  ,{ "name": "bituima", "size": "11" }
+  ,{ "name": "mosquera", "size": "2279" }
+  ,{ "name": "gutierrez", "size": "201" }
+  ,{ "name": "supata", "size": "594" }
+  ,{ "name": "tausa", "size": "9192" }
+  ,{ "name": "facatativa", "size": "964" }
+  ,{ "name": "paime", "size": "40" }
+  ,{ "name": "indeterminado", "size": "275534" }
+  ,{ "name": "bogota d.c.", "size": "21500" }
+  ,{ "name": "manta", "size": "18" }
+  ,{ "name": "sopo", "size": "948" }
+  ,{ "name": "guatavita", "size": "4440" }
+  ,{ "name": "quebradanegra", "size": "219" }
+  ,{ "name": "laguna verde", "size": "1" }
+  ,{ "name": "soacha", "size": "2644" }
+  ,{ "name": "las aguadas", "size": "1" }
+  ,{ "name": "sibate", "size": "975" }
+  ,{ "name": "puli", "size": "57" }
+  ,{ "name": "la victoria", "size": "1" }
+  ,{ "name": "mambita", "size": "1464" }
+  ,{ "name": "ubala", "size": "2372" }
+  ,{ "name": "fosca", "size": "31" }
+  ,{ "name": "cqueza", "size": "4" }
+  ,{ "name": "soache", "size": "2" }
+  ,{ "name": "usme", "size": "284" }
+  ,{ "name": "san juan de rio seco", "size": "132" }
+  ,{ "name": "nocaima", "size": "75" }
+  ,{ "name": "nimaima", "size": "33" }
+  ,{ "name": "santa barbara", "size": "3" }
+  ,{ "name": "choachi", "size": "2753" }
+  ,{ "name": "villa pinzon", "size": "1010" }
+  ,{ "name": "guayabal de siquima", "size": "31" }
+  ,{ "name": "alban", "size": "2116" }
+  ,{ "name": "beltran", "size": "3540" }
+  ,{ "name": "yacopi", "size": "1398" }
+  ,{ "name": "sesquile", "size": "3046" }
+  ,{ "name": "rincon del oso", "size": "1" }
+  ,{ "name": "san miguel", "size": "5" }
+  ,{ "name": "raquira", "size": "36" }
+  ,{ "name": "guasca", "size": "21448" }
+  ,{ "name": "la calera", "size": "9266" }
+  ,{ "name": "apulo", "size": "660" }
+  ,{ "name": "san bernardo", "size": "1688" }
+  ,{ "name": "choconta", "size": "482" }
+  ,{ "name": "arbelaz", "size": "1" }
+  ,{ "name": "subachoque", "size": "5976" }
+  ,{ "name": "la pena", "size": "54" }
+  ,{ "name": "tenjo", "size": "353" }
+  ,{ "name": "nemocn", "size": "1" }
+  ,{ "name": "girardot", "size": "1050" }
+  ,{ "name": "gacheta", "size": "491" }
+  ,{ "name": "pandi", "size": "766" }
+  ,{ "name": "gachala", "size": "378" }
+  ,{ "name": "tocancipa", "size": "214" }
+  ,{ "name": "mamabita", "size": "13" }
+  ,{ "name": "nario", "size": "3" }
+  ,{ "name": "fmeque", "size": "2" }
+  ,{ "name": "el rosal", "size": "700" }
+  ,{ "name": "macheta", "size": "126" }
+  ,{ "name": "simijaca", "size": "91" }
+  ,{ "name": "arbelaez", "size": "351" }
+  ,{ "name": "tibirita", "size": "21" }
+  ,{ "name": "tena", "size": "3185" }
+  ,{ "name": "usaquen", "size": "1" }
+  ,{ "name": "jerusalen", "size": "49" }
+  ,{ "name": "pasca", "size": "2587" }
+  ,{ "name": "gachancipa", "size": "245" }
+  ,{ "name": "el colegio", "size": "578" }
+  ,{ "name": "san francisco", "size": "3610" }
+  ,{ "name": "gama", "size": "1003" }
+  ,{ "name": "cogua", "size": "7123" }
+  ,{ "name": "zipacn", "size": "7" }
+  ,{ "name": "topaipi", "size": "51" }
+  ,{ "name": "venecia", "size": "59" }
+  ,{ "name": "junin", "size": "6595" }
+  ,{ "name": "lenguazaque", "size": "136" }
+  ,{ "name": "puerto salgar", "size": "1542" }
+  ,{ "name": "silvania", "size": "2928" }
+  ,{ "name": "tabio", "size": "1247" }
+  ,{ "name": "une", "size": "2325" }
+  ,{ "name": "caparrapi", "size": "2202" }
+  ,{ "name": "fquene", "size": "1" }
+  ,{ "name": "guayabetal", "size": "758" }
+  ,{ "name": "granada", "size": "532" }
+  ,{ "name": "zipaquira", "size": "1676" }
+  ,{ "name": "caqueza", "size": "1082" }
+  ,{ "name": "ubaque", "size": "2495" }
+  ,{ "name": "pn chicaque", "size": "11" }
+  ,{ "name": "paratebueno", "size": "4149" }
+  ,{ "name": "cota", "size": "654" }
+  ,{ "name": "guaduas", "size": "3770" }
+  ,{ "name": "viani", "size": "45" }
+  ,{ "name": "villa de san diego de ubate", "size": "199" }
+  ,{ "name": "camboa", "size": "1" }
+ ]},
+ { "name": "cordoba", "children": [ 
+  { "name": "sahagun", "size": "339" }
+  ,{ "name": "sincelejo", "size": "1" }
+  ,{ "name": "lorica", "size": "3441" }
+  ,{ "name": "montelibano", "size": "1883" }
+  ,{ "name": "tierralta", "size": "4160" }
+  ,{ "name": "chinu", "size": "86" }
+  ,{ "name": "san carlos", "size": "70" }
+  ,{ "name": "san juan de nemopuceno", "size": "1" }
+  ,{ "name": "ayapel", "size": "13247" }
+  ,{ "name": "cotorra", "size": "5" }
+  ,{ "name": "san andres de sotavento", "size": "43" }
+  ,{ "name": "san pelayo", "size": "133" }
+  ,{ "name": "monteria", "size": "4960" }
+  ,{ "name": "momil", "size": "196" }
+  ,{ "name": "tuchin", "size": "20" }
+  ,{ "name": "planeta rica", "size": "415" }
+  ,{ "name": "chima", "size": "48" }
+  ,{ "name": "pueblo viejo", "size": "21" }
+  ,{ "name": "pueblo nuevo", "size": "881" }
+  ,{ "name": "puerto libertador", "size": "776" }
+  ,{ "name": "san antero", "size": "1121" }
+  ,{ "name": "valencia", "size": "703" }
+  ,{ "name": "purisima", "size": "151" }
+  ,{ "name": "indeterminado", "size": "34741" }
+  ,{ "name": "monitos", "size": "86" }
+  ,{ "name": "maria la baja", "size": "1" }
+  ,{ "name": "san bernardo del viento", "size": "1786" }
+  ,{ "name": "puerto escondido", "size": "155" }
+  ,{ "name": "cerete", "size": "308" }
+  ,{ "name": "buena vista", "size": "2414" }
+  ,{ "name": "canalete", "size": "290" }
+  ,{ "name": "cienaga de oro", "size": "121" }
+  ,{ "name": "san jose de ure", "size": "114" }
+  ,{ "name": "san juan de buenavista", "size": "168" }
+  ,{ "name": "urra", "size": "1" }
+  ,{ "name": "la apartada", "size": "35" }
+  ,{ "name": "los cordobas", "size": "117" }
+ ]},
+ { "name": "arauca", "children": [ 
+  { "name": "cravo norte", "size": "999" }
+  ,{ "name": "fortul", "size": "160" }
+  ,{ "name": "tame", "size": "10502" }
+  ,{ "name": "puerto rondon", "size": "985" }
+  ,{ "name": "saravena", "size": "442" }
+  ,{ "name": "indeterminado", "size": "31083" }
+  ,{ "name": "arauquita", "size": "2279" }
+ ]},
+ { "name": "magdalena", "children": [ 
+  { "name": "fundacion", "size": "426" }
+  ,{ "name": "cerro de san antonio", "size": "49" }
+  ,{ "name": "algarrobo", "size": "334" }
+  ,{ "name": "tenerife", "size": "139" }
+  ,{ "name": "aracataca", "size": "2020" }
+  ,{ "name": "sabanas de san angel", "size": "263" }
+  ,{ "name": "el pinon", "size": "790" }
+  ,{ "name": "nueva granada", "size": "12" }
+  ,{ "name": "santa ana", "size": "189" }
+  ,{ "name": "zapayan", "size": "3" }
+  ,{ "name": "el reten", "size": "1359" }
+  ,{ "name": "cinaga", "size": "28" }
+  ,{ "name": "santa barbara de pinto", "size": "38" }
+  ,{ "name": "pueblo viejo", "size": "5503" }
+  ,{ "name": "zona bananera", "size": "1593" }
+  ,{ "name": "chivolo", "size": "5" }
+  ,{ "name": "pivijay", "size": "3373" }
+  ,{ "name": "puerto narino", "size": "1" }
+  ,{ "name": "guamal", "size": "534" }
+  ,{ "name": "barranquilla", "size": "2" }
+  ,{ "name": "el banco", "size": "747" }
+  ,{ "name": "bonda", "size": "7" }
+  ,{ "name": "gaira", "size": "1" }
+  ,{ "name": "indeterminado", "size": "296640" }
+  ,{ "name": "cartagena de indias", "size": "29" }
+  ,{ "name": "salamina", "size": "4" }
+  ,{ "name": "pedraza", "size": "3" }
+  ,{ "name": "pijino del carmen", "size": "188" }
+  ,{ "name": "bolivar", "size": "1" }
+  ,{ "name": "buritica", "size": "1" }
+  ,{ "name": "concordia", "size": "4" }
+  ,{ "name": "ariguani", "size": "129" }
+  ,{ "name": "san lorenzo", "size": "2" }
+  ,{ "name": "tamalameque", "size": "1" }
+  ,{ "name": "cienaga", "size": "9423" }
+  ,{ "name": "hato nuevo", "size": "1" }
+  ,{ "name": "sitio nuevo", "size": "10783" }
+  ,{ "name": "remolino", "size": "170" }
+  ,{ "name": "san sebastian de buenavista", "size": "716" }
+  ,{ "name": "plato", "size": "840" }
+  ,{ "name": "santa marta", "size": "65230" }
+  ,{ "name": "san zenon", "size": "416" }
+  ,{ "name": "san pedro", "size": "2" }
+ ]},
+ { "name": "boyaca", "children": [ 
+  { "name": "tasco", "size": "905" }
+  ,{ "name": "pisba", "size": "32" }
+  ,{ "name": "pto romero", "size": "2" }
+  ,{ "name": "capitanejo", "size": "2" }
+  ,{ "name": "nuevo colon", "size": "9" }
+  ,{ "name": "la capilla", "size": "5" }
+  ,{ "name": "sutatenza", "size": "44" }
+  ,{ "name": "rondon", "size": "2203" }
+  ,{ "name": "san mateo", "size": "130" }
+  ,{ "name": "boavita", "size": "147" }
+  ,{ "name": "viracacha", "size": "1877" }
+  ,{ "name": "pauna", "size": "78" }
+  ,{ "name": "san luis de gaceno", "size": "478" }
+  ,{ "name": "cucaita", "size": "129" }
+  ,{ "name": "san miguel de sema", "size": "7" }
+  ,{ "name": "tota", "size": "317" }
+  ,{ "name": "tibasosa", "size": "128" }
+  ,{ "name": "corrales", "size": "12" }
+  ,{ "name": "sutamarchan", "size": "459" }
+  ,{ "name": "sotaquira", "size": "7567" }
+  ,{ "name": "puerto boyaca", "size": "4648" }
+  ,{ "name": "duitama", "size": "7660" }
+  ,{ "name": "malaga", "size": "1" }
+  ,{ "name": "tipacoque", "size": "2981" }
+  ,{ "name": "toca", "size": "2934" }
+  ,{ "name": "miraflores", "size": "623" }
+  ,{ "name": "buena vista", "size": "18" }
+  ,{ "name": "jerico", "size": "32" }
+  ,{ "name": "soata", "size": "1610" }
+  ,{ "name": "cuitiva", "size": "94" }
+  ,{ "name": "labranzagrande", "size": "877" }
+  ,{ "name": "sativanorte", "size": "49" }
+  ,{ "name": "turmeque", "size": "36" }
+  ,{ "name": "oicata", "size": "3" }
+  ,{ "name": "socha", "size": "1350" }
+  ,{ "name": "jenesano", "size": "23" }
+  ,{ "name": "siachoque", "size": "451" }
+  ,{ "name": "tinjaca", "size": "119" }
+  ,{ "name": "paez", "size": "308" }
+  ,{ "name": "combita", "size": "725" }
+  ,{ "name": "chiscas", "size": "320" }
+  ,{ "name": "umbita", "size": "56" }
+  ,{ "name": "motavita", "size": "74" }
+  ,{ "name": "sativasur", "size": "22" }
+  ,{ "name": "berbeo", "size": "68" }
+  ,{ "name": "santa maria", "size": "12440" }
+  ,{ "name": "belen", "size": "5683" }
+  ,{ "name": "zetaquira", "size": "297" }
+  ,{ "name": "indeterminado", "size": "107114" }
+  ,{ "name": "el espino", "size": "31" }
+  ,{ "name": "somondoco", "size": "34" }
+  ,{ "name": "chivor", "size": "47" }
+  ,{ "name": "caldas", "size": "70" }
+  ,{ "name": "ramiriqui", "size": "292" }
+  ,{ "name": "almeida", "size": "39" }
+  ,{ "name": "la victoria", "size": "44" }
+  ,{ "name": "togui", "size": "140" }
+  ,{ "name": "mambita", "size": "1" }
+  ,{ "name": "aquitania", "size": "6653" }
+  ,{ "name": "arcabuco", "size": "6114" }
+  ,{ "name": "chivata", "size": "1" }
+  ,{ "name": "cerinza", "size": "3113" }
+  ,{ "name": "samaca", "size": "976" }
+  ,{ "name": "maripi", "size": "39" }
+  ,{ "name": "chiquinquira", "size": "186" }
+  ,{ "name": "nobsa", "size": "8" }
+  ,{ "name": "paya", "size": "519" }
+  ,{ "name": "ventaquemada", "size": "1704" }
+  ,{ "name": "la uvita", "size": "283" }
+  ,{ "name": "chinavita", "size": "228" }
+  ,{ "name": "coper", "size": "35" }
+  ,{ "name": "tunungua", "size": "6" }
+  ,{ "name": "santa rosa de viterbo", "size": "660" }
+  ,{ "name": "el cocuy", "size": "1572" }
+  ,{ "name": "tunja", "size": "779" }
+  ,{ "name": "briceno", "size": "69" }
+  ,{ "name": "raquira", "size": "1131" }
+  ,{ "name": "saboya", "size": "139" }
+  ,{ "name": "pesca", "size": "3573" }
+  ,{ "name": "panqueba", "size": "5" }
+  ,{ "name": "cubara", "size": "262" }
+  ,{ "name": "chiquiza", "size": "1386" }
+  ,{ "name": "villa de leyva", "size": "13527" }
+  ,{ "name": "chita", "size": "651" }
+  ,{ "name": "guateque", "size": "432" }
+  ,{ "name": "moniquira", "size": "540" }
+  ,{ "name": "pachavita", "size": "5" }
+  ,{ "name": "socota", "size": "1773" }
+  ,{ "name": "sora", "size": "57" }
+  ,{ "name": "villa de legra", "size": "1" }
+  ,{ "name": "tibana", "size": "64" }
+  ,{ "name": "topaga", "size": "51" }
+  ,{ "name": "guacamayas", "size": "348" }
+  ,{ "name": "san eduardo", "size": "8" }
+  ,{ "name": "susacon", "size": "1022" }
+  ,{ "name": "quipama", "size": "148" }
+  ,{ "name": "macanal", "size": "100" }
+  ,{ "name": "busbanza", "size": "196" }
+  ,{ "name": "campohermoso", "size": "104" }
+  ,{ "name": "garagoa", "size": "614" }
+  ,{ "name": "tutaza", "size": "313" }
+  ,{ "name": "guican", "size": "3270" }
+  ,{ "name": "gameza", "size": "13" }
+  ,{ "name": "santa ana", "size": "163" }
+  ,{ "name": "gachancipa", "size": "1" }
+  ,{ "name": "otanche", "size": "3450" }
+  ,{ "name": "paipa", "size": "6666" }
+  ,{ "name": "mongui", "size": "919" }
+  ,{ "name": "sachica", "size": "528" }
+  ,{ "name": "paz del rio", "size": "59" }
+  ,{ "name": "covarachia", "size": "55" }
+  ,{ "name": "san pablo de borbur", "size": "2" }
+  ,{ "name": "mongua", "size": "5170" }
+  ,{ "name": "san jose de pare", "size": "5" }
+  ,{ "name": "cienega", "size": "775" }
+  ,{ "name": "gachantiva", "size": "600" }
+  ,{ "name": "muzo", "size": "294" }
+  ,{ "name": "firavitoba", "size": "56" }
+  ,{ "name": "santa sofia", "size": "78" }
+  ,{ "name": "guayata", "size": "27" }
+  ,{ "name": "pajarito", "size": "2504" }
+  ,{ "name": "la ulivita", "size": "2" }
+  ,{ "name": "sogamoso", "size": "319" }
+  ,{ "name": "floresta", "size": "24" }
+ ]},
+ { "name": "amazonas", "children": [ 
+  { "name": "el encanto", "size": "242" }
+  ,{ "name": "puerto narino", "size": "4686" }
+  ,{ "name": "leticia", "size": "53752" }
+  ,{ "name": "san vicente del caguan", "size": "5" }
+  ,{ "name": "indeterminado", "size": "53004" }
+  ,{ "name": "araracuara", "size": "70" }
+  ,{ "name": "la chorrera", "size": "1562" }
+  ,{ "name": "taraira", "size": "1" }
+  ,{ "name": "puerto alegria", "size": "187" }
+  ,{ "name": "tarapaca", "size": "9224" }
+  ,{ "name": "puerto naro", "size": "1" }
+  ,{ "name": "miriti", "size": "3914" }
+  ,{ "name": "la victoria", "size": "675" }
+  ,{ "name": "puerto nario", "size": "103" }
+  ,{ "name": "puerto arica", "size": "627" }
+  ,{ "name": "nazareth", "size": "1" }
+  ,{ "name": "san martin", "size": "9" }
+  ,{ "name": "repelon", "size": "1" }
+  ,{ "name": "solano", "size": "12" }
+  ,{ "name": "la pedrera", "size": "4775" }
+  ,{ "name": "puerto santander", "size": "13080" }
+ ]},
+ { "name": "sucre", "children": [ 
+  { "name": "sincelejo", "size": "205" }
+  ,{ "name": "covenas", "size": "139" }
+  ,{ "name": "guaranda", "size": "6" }
+  ,{ "name": "san antonio de los palmitos", "size": "180" }
+  ,{ "name": "el roble", "size": "25" }
+  ,{ "name": "san onofre", "size": "1850" }
+  ,{ "name": "tolu viejo", "size": "22677" }
+  ,{ "name": "santiago de tolu", "size": "13416" }
+  ,{ "name": "coveas", "size": "3" }
+  ,{ "name": "achi", "size": "6" }
+  ,{ "name": "san benito abad", "size": "2815" }
+  ,{ "name": "majagual", "size": "1" }
+  ,{ "name": "morroa", "size": "74" }
+  ,{ "name": "ovejas", "size": "79" }
+  ,{ "name": "san marcos", "size": "9084" }
+  ,{ "name": "indeterminado", "size": "11955" }
+  ,{ "name": "chalan", "size": "160" }
+  ,{ "name": "caimito", "size": "30" }
+  ,{ "name": "corozal", "size": "71" }
+  ,{ "name": "buena vista", "size": "49" }
+  ,{ "name": "coloso", "size": "8570" }
+  ,{ "name": "sampues", "size": "33" }
+  ,{ "name": "san juan de betulia", "size": "28" }
+  ,{ "name": "san luis de since", "size": "16" }
+  ,{ "name": "galeras", "size": "703" }
+  ,{ "name": "san pedro", "size": "25" }
+  ,{ "name": "sucre", "size": "31" }
+ ]}
+ ]}
